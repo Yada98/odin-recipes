@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project in the Odin course. With this project I am gonna check my basic knowledge in html. It will contain some receipts, including ordered/unordered lists, images, links etc..
